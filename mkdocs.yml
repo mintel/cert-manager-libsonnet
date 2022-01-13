@@ -12,10 +12,10 @@
       "separator": "[\\s\\-\\.]+"
   - "minify":
       "minify_html": true
-"repo_name": "jsonnet-libs/cert-manager-libsonnet"
-"repo_url": "https://github.com/jsonnet-libs/cert-manager-libsonnet"
+"repo_name": "mintel/cert-manager-libsonnet"
+"repo_url": "https://github.com/mintel/cert-manager-libsonnet"
 "site_name": "cert-manager jsonnet library"
-"site_url": "https://jsonnet-libs.github.io/cert-manager-libsonnet"
+"site_url": "https://mintel.github.io/cert-manager-libsonnet"
 "theme":
   "name": "material"
   "palette":

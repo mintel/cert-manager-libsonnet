@@ -1,5 +1,5 @@
 # cert-manager Jsonnet library
 
-This library is generated with [`k8s`](https://github.com/jsonnet-libs/k8s).
+This library is generated with [`k8s`](https://github.com/mintel/k8s).
 
-[Docs](https://jsonnet-libs.github.io/cert-manager-libsonnet)
+[Docs](https://mintel.github.io/cert-manager-libsonnet)
